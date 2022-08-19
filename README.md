@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Estudante de programação, cada dia aprendendo um pouco mais.</h3>
-<h3 align="center">Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs.</h3>
+<h3 align="center">"Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs.</h3>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
