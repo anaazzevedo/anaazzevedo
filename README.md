@@ -1,8 +1,9 @@
 <h1 align="center">Oi oi, sou a Ana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 
-- Estudando programação;
-- Pronouns: ela/dela.
+
+
+<h3 align="center">Estudante de programação, cada dia aprendendo um pouco mais.</h3>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
