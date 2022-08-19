@@ -1,4 +1,4 @@
-<h1 align="center">Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, sou a Ana!</h1>
+<h1 align="center">Oi, sou a Ana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 
 - Estudando programação;
