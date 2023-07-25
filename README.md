@@ -1,9 +1,9 @@
-<h1 align="center">Oi oi, sou a Ana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+<h1 align="center">Oi, sou a Ana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 
 
 
-<h3 align="center">Estudante de programação, cada dia aprendendo um pouco mais.</h3>
+<h3 align="center">Estudante de Desenvolvimento Web e cada dia aprendendo um pouco mais.</h3>
 <h3 align="center">"Everyone in this country should learn how to program because it teaches you how to think” <br>– Steve Jobs.</h3>
 
 
